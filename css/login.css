@@ -34,7 +34,7 @@ nav {
 }
 
 ul li:nth-child(1) {
-    background: linear-gradient(to right, #3529294f, #00000059), url(../images/writing-1.jpg) no-repeat 0px 0px / cover;
+    background: linear-gradient(to right, #3529294f, #00000059), url('https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?auto=format&fit=crop&w=1050&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D') no-repeat 0px 0px / cover;
     float: left;
     width: calc(100% / 2);
     height: 100vh;
